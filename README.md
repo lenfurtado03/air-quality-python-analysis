@@ -44,6 +44,24 @@ Python, Pandas, Plotly, Seaborn
   mid-year (Apr–Aug)
 - Cold months cause worse air quality due to increased fuel 
   burning and lower atmospheric dispersion
+### Charts
 
+**1. CO Levels Throughout the Day**
+![CO by Hour](VISUAL1.png)
+
+**2. Weekday vs Weekend Pollution**
+![Weekday vs Weekend](VISUAL2.png)
+
+**3. Time-Based Air Quality**
+![Time Based](VISUAL3.png)
+
+**4. Weather Impact on CO**
+![Temperature vs CO Levels](VISUAL4.png)
+
+**5. NO2 Seasonal Trends**
+![NO2 Levels Over Time](VISUAL5.png)
+
+**NO2 and NOX levells**
+![Monthly Trend of Major Pollutants](VISUAL6.png)
 ### Dataset
 Kaggle Air Quality Dataset
